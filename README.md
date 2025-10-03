@@ -2,4 +2,4 @@
 
 ## Karol Stefany Saavedra Suarez
 
-<img src ="karolsaavedra" width = 100>
+<img src ="karolsaavedra.jpeg" width = 100>
