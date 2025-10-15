@@ -9,22 +9,22 @@
 ## La plataforma ofrece una experiencia práctica y moderna para estudiantes, docentes y personal administrativo que deseen adquirir artículos institucionales o promocionales de manera rápida y segura.
 
 # Stack
-## Lenguaje: Kotlin 🧠
+## Lenguaje: Kotlin 
 
-## IDE: Android Studio 🧩
+## IDE: Android Studio 
 
-## Arquitectura: MVVM (Model-View-ViewModel) 🏗️
+## Arquitectura: MVVM (Model-View-ViewModel) 
 
-## Base de datos: Room / SQLite 🗃️
+## Base de datos: Room / SQLite 
 
-## Interfaz de usuario: XML + Material Design Components 🎨
+## Interfaz de usuario: XML + Material Design Components 
 
-## Navegación: Android Jetpack Navigation Component 🧭
+## Navegación: Android Jetpack Navigation Component 
 
-## Persistencia de datos: SharedPreferences 💾
+## Persistencia de datos: SharedPreferences 
 
-## Gestor de dependencias: Gradle ⚙️
+## Gestor de dependencias: Gradle 
 
-## Control de versiones: Git / GitHub 🌐
+## Control de versiones: Git / GitHub 
 
-## Pruebas y depuración: Android Emulator y Logcat 🧪
+## Pruebas y depuración: Android Emulator y Logcat 
