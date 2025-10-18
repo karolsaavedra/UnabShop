@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652551664825",
+    "project_id": "loginfirebase-d3d11",
+    "storage_bucket": "loginfirebase-d3d11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652551664825:android:74fee98add7f810b7d9768",
+        "android_client_info": {
+          "package_name": "co.edu.karolsaavedra.unabshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4axOLWUonKt5W1hP1niDV4gpApAqy2Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
